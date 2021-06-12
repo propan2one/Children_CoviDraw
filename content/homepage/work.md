@@ -1,8 +1,8 @@
 ---
-title: 'We Help Business Grow'
+title: 'Project'
 weight: 1
 background: 'images/coronavirus-5088471_1920.jpg'
-button: 'Our Work'
+button: 'The project'
 buttonLink: 'work'
 ---
 
