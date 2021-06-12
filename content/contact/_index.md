@@ -1,6 +1,6 @@
 ---
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2021-06-11T17:01:34+07:00
 ---
 
-We offer a free consultation for all new clients.
+If you have any questions or if you are a researcher from a university and you would like to be part of the adventure, please contact us, we would be happy to discuss !

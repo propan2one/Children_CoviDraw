@@ -6,4 +6,4 @@ heroSubHeading: 'How to help us to develop the project'
 heroBackground: 'images/girl-5760039_1920.jpg'
 ---
 
-Fill the formulary
+Please select the most suitable language for you !
