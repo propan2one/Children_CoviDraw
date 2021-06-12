@@ -57,3 +57,6 @@ theme = "hugo-hero-theme"
 
 ## Change work part
 # The path for image is located : Children_CoviDraw/static/work/
+
+## Change the button to "help us"
+#themes/hugo-hero-theme/layouts/index.html
