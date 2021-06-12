@@ -2,7 +2,7 @@
 title: 'Project'
 weight: 1
 background: 'images/coronavirus-5088471_1920.jpg'
-button: 'The project'
+button: 'Our work'
 buttonLink: 'work'
 ---
 

@@ -54,3 +54,6 @@ theme = "hugo-hero-theme"
 ## Change the background value
 # themes/hugo-hero-theme/assets/scss/_bootstrap-variables.scss
 # Change the value of #1c3ed3 to #1c3ed370
+
+## Change work part
+# The path for image is located : Children_CoviDraw/static/work/
