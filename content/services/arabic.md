@@ -1,5 +1,5 @@
 ---
-title: 'Arabic'
+title: 'مغربي'
 date: 2021-06-11T15:15:26+10:00
 icon: 'services/ma.png'
 featured: true

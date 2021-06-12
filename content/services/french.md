@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'Comment nous aider'
-heroSubHeading: 'French'
+heroSubHeading: 'Français'
 heroBackground: 'services/hands-2847508_1920.jpg'
 ---
 
