@@ -1,7 +1,9 @@
 ---
-title: 'Services'
-date: 2018-02-10T11:52:18+07:00
-heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
-heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
+title: 'Help us'
+date: 2021-06-11T11:52:18+07:00
+heroHeading: 'Help us'
+heroSubHeading: 'How to help us to develop the project'
+heroBackground: 'images/girl-5760039_1920.jpg'
 ---
+
+Fill the formulary
