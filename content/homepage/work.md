@@ -1,9 +1,9 @@
 ---
 title: 'We Help Business Grow'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/coronavirus-5088471_1920.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+In 2020, the covid-19 epidemic spread throughout the world. A state of health emergency was announced, with varying degrees of restrictions in different countries. Children from all socio-economic backgrounds have probably experienced this period with difficulty. The aim of this research is to better understand how the representation of covid-19 according to age, country and socio-economic and cultural background of children. 

@@ -46,3 +46,11 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+## Image of the homepage ar in Children_CoviDraw/themes/hugo-hero-theme/static/images
+# https://pixabay.com/fr/photos/asie-enfant-covid-19-pand%C3%A9mie-5412358/
+# https://pixabay.com/fr/photos/le-coronavirus-masque-sant%C3%A9-5088471/
+
+## Change the background value
+# themes/hugo-hero-theme/assets/scss/_bootstrap-variables.scss
+# Change the value of #1c3ed3 to #1c3ed370
