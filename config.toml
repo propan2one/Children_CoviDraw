@@ -27,10 +27,10 @@ theme = "hugo-hero-theme"
     url = "/work/"
     weight = 2
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+#[[menu.main]]
+#    name = "About"
+#    url = "/about/"
+#    weight = 3
 
 
 # [[menu.main]]
@@ -60,3 +60,8 @@ theme = "hugo-hero-theme"
 
 ## Change the button to "help us"
 #themes/hugo-hero-theme/layouts/index.html
+
+#nouveau fichier : static/images/asian-5412358_1920.jpg
+#nouveau fichier : static/images/coronavirus-5088471_1920.jpg
+#nouveau fichier : static/images/crayons-1209804_1920.jpg
+#nouveau fichier : static/images/girl-5760039_1920.jpg
